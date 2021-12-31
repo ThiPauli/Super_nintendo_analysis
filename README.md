@@ -18,7 +18,7 @@
 * Convert column as object to datetime.
 
 ### Exploratory Data Analysis
-* Adding new columns as well as extracting months and hours from the order date.
+* Adding new columns as well as extracting months and years from the release date.
 * Using groupby to perform aggregate analysis.
 
 ## Data analysis and visualizations
@@ -32,6 +32,7 @@
 ![](images/history_japan_1990.png)
 
 ## Conclusions
+* The structure of the table from Wikipedia page (HTML document) is missing some table data, so it had to insert manually some items.
 * The first game released in Japan was in November 1990 and the last one was in November 2000.
 * Japan released more games.
 * The peak of releasing was in 1994 for both Japan and North America.
